@@ -6,7 +6,6 @@ import pandas as pd  # Para registrar acciones en CSV
 import pygetwindow as gw  # Para controlar múltiples ventanas del juego
 import random  # Para generar tiempos de espera aleatorios
 import time  # Para pausar la ejecución entre clics
-from combat import realizar_clics_en_imagenes_en_todas_ventanas  # Importar la función desde el archivo externo
 
 # ---------------------------
 # Configuración inicial
